@@ -17,4 +17,4 @@ Fill all the blanks for the sentence showed. The text is based on Wikipedia info
 
 - In the last try the program shows a hint to the user for the word.
 
-- To run this test run  ```  ``` file in terminal if using Mac or any batch application using pything.
+- To run this test run  ``` fill-in-the-blanks.py  ``` file in terminal if using Mac or any batch application using pything.
